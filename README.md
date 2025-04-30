@@ -108,8 +108,7 @@ The dashboard is segmented into analytical views for social engagement metrics a
 
 ## 🔗 Link to Dashboard
 
-👉 [**Explore the Social Media Engagement Dashboard**](#)  
-*Replace this placeholder with the actual Power BI or hosted dashboard URL.*
+👉 [Social Media Engagement.xlsx](https://github.com/user-attachments/files/19985079/Social.Media.Engagement.xlsx)
 
 ---
 
